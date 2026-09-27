@@ -18,10 +18,11 @@ anderen rund **40 selbst gebaute Feinstaub-Sensoren**, deren Daten bis heute
 live auf der [Karte der Sensor Community](https://maps.sensor.community)
 landen. Und das Projekt in der Stadt publik gemacht.
 
-Auch die Idee zu einem
-[WordPress-Plugin](https://github.com/ftpproxy/luftdaten-wordpress-plugin),
-das die Messwerte auf Stadt-Webseiten einbettet, stammt aus unserer Runde –
-umgesetzt gemeinsam mit [bleeptrack](https://github.com/bleeptrack).
+Zum [WordPress-Plugin](https://github.com/ftpproxy/luftdaten-wordpress-plugin),
+das die Messwerte auf Stadt-Webseiten einbettet, habe ich als einer seiner
+intensivsten Nutzer eine Reihe Ideen und Rückmeldungen beigesteuert –
+umgesetzt hat es [bleeptrack](https://github.com/bleeptrack). Koordiniert
+wurde das damals noch per E-Mail, vor dem Umzug auf GitHub.
 
 Vom Lötkolben über Arduino & ESP bis zur eigenen Android-App ist es dabei nur
 ein kleiner Schritt. 😄
