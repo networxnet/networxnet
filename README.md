@@ -12,12 +12,16 @@ Am liebsten schlank, ohne unnötigen Ballast und als Open Source.</em></p>
 
 ## 🛰️ Meine Wurzeln: Sensor Community
 
-Bevor ich eigene Software geschrieben habe, habe ich mitgebaut: Beim
-Citizen-Science-Projekt [Sensor Community](https://sensor.community) (früher
-*Luftdaten.info*) habe ich das **Sensornetzwerk in Leverkusen** mit aufgebaut –
-gemeinsam mit anderen rund **40 selbst gebaute Feinstaub-Sensoren**, deren
-Daten live auf der [Sensor-Community-Karte](https://maps.sensor.community)
+Schon vor rund zehn Jahren, in den frühen Tagen von *luftdaten.info*, habe ich
+das Sensornetzwerk einer Großstadt im Rheinland mit aufgebaut – gemeinsam mit
+anderen rund **40 selbst gebaute Feinstaub-Sensoren**, deren Daten bis heute
+live auf der [Karte der Sensor Community](https://maps.sensor.community)
 landen. Und das Projekt in der Stadt publik gemacht.
+
+Auch die Idee zu einem
+[WordPress-Plugin](https://github.com/ftpproxy/luftdaten-wordpress-plugin),
+das die Messwerte auf Stadt-Webseiten einbettet, stammt aus unserer Runde –
+umgesetzt gemeinsam mit [bleeptrack](https://github.com/bleeptrack).
 
 Vom Lötkolben über Arduino & ESP bis zur eigenen Android-App ist es dabei nur
 ein kleiner Schritt. 😄
