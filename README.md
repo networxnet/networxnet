@@ -4,11 +4,28 @@
 
 <h1 align="center">Hi, ich bin networxnet 👋</h1>
 
-<p align="center"><em>Ich baue Software, die echte Probleme löst –<br>am liebsten schlank, ohne unnötige Abhängigkeiten und als Open Source.</em></p>
+<p align="center"><em>Neugieriger Problemlöser mit IT-Basis – bastelt an Arduino, ESP & Sensoren,<br>
+und wenn Software eine Grenze setzt, schreibe ich sie neuerdings selbst.<br>
+Am liebsten schlank, ohne unnötigen Ballast und als Open Source.</em></p>
 
 ---
 
+## 🛰️ Meine Wurzeln: Sensor Community
+
+Bevor ich eigene Software geschrieben habe, habe ich mitgebaut: Beim
+Citizen-Science-Projekt [Sensor Community](https://sensor.community) (früher
+*Luftdaten.info*) habe ich das **Sensornetzwerk in Leverkusen** mit aufgebaut –
+gemeinsam mit anderen rund **40 selbst gebaute Feinstaub-Sensoren**, deren
+Daten live auf der [Sensor-Community-Karte](https://maps.sensor.community)
+landen. Und das Projekt in der Stadt publik gemacht.
+
+Vom Lötkolben über Arduino & ESP bis zur eigenen Android-App ist es dabei nur
+ein kleiner Schritt. 😄
+
 ## 🔭 Aktuell: [QL Print Service for Android](https://github.com/networxnet/Brother-QL-Printservice-for-Android)
+
+*Mein erstes eigenes Open-Source-Projekt – bisher habe ich vor allem Feedback
+zu Projekten gegeben, die ich selbst nutze.*
 
 Geboren aus echtem Frust: Die offizielle Brother-App kennt nur feste Etikettenformate – aber Versandetiketten von der Endlos-Rolle haben **jede Länge**. Also habe ich einen eigenen Android-Druckdienst geschrieben.
 
