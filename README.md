@@ -2,7 +2,7 @@
   <img src="assets/social-preview.png" alt="QL Print Service – Every label length for Brother QL printers on Android" width="820">
 </p>
 
-<h1 align="center">Hi, ich bin networxnet 👋</h1>
+<h1 align="center">Hi👋 Wer bin ich?</h1>
 
 <p align="center"><em>Neugieriger Problemlöser mit IT-Basis – bastelt an Arduino, ESP & Sensoren,<br>
 und wenn Software eine Grenze setzt, schreibe ich sie neuerdings selbst.<br>
